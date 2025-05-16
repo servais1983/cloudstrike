@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/f8bcece5-3966-4439-9c80-354e1fcb6728)
+
+
 # ☁️ CloudStrike CLI
 
 CloudStrike est un outil CLI pour Kali Linux qui permet de réaliser des pentests automatisés sur des environnements cloud.
