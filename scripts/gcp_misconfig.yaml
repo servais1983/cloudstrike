@@ -1,0 +1,6 @@
+name: Audit basique GCP
+provider: gcp
+steps:
+  - type: enum
+  - type: check
+  - type: cloud-ai
