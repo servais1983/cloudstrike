@@ -1,0 +1,5 @@
+pyyaml
+boto3
+google-cloud-storage
+azure-identity
+azure-storage-blob
