@@ -1,0 +1,6 @@
+name: Audit basique AWS
+provider: aws
+steps:
+  - type: enum
+  - type: check
+  - type: cloud-ai
